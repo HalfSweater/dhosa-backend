@@ -31,3 +31,4 @@ db.serialize(() => {
 });
 
 db.close();
+
